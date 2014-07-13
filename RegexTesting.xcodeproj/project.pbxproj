@@ -12,6 +12,7 @@
 		8BC158D91971932400AA84F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BC158D71971932400AA84F1 /* Main.storyboard */; };
 		8BC158DB1971932400AA84F1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BC158DA1971932400AA84F1 /* Images.xcassets */; };
 		8BC158E71971932400AA84F1 /* RegexTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC158E61971932400AA84F1 /* RegexTestingTests.swift */; };
+		8BC158F11971937600AA84F1 /* RegexCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC158F01971937600AA84F1 /* RegexCode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		8BC158E01971932400AA84F1 /* RegexTestingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RegexTestingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BC158E51971932400AA84F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BC158E61971932400AA84F1 /* RegexTestingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegexTestingTests.swift; sourceTree = "<group>"; };
+		8BC158F01971937600AA84F1 /* RegexCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegexCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				8BC158D31971932400AA84F1 /* AppDelegate.swift */,
 				8BC158D51971932400AA84F1 /* ViewController.swift */,
+				8BC158F01971937600AA84F1 /* RegexCode.swift */,
 				8BC158D71971932400AA84F1 /* Main.storyboard */,
 				8BC158DA1971932400AA84F1 /* Images.xcassets */,
 				8BC158D11971932400AA84F1 /* Supporting Files */,
@@ -209,6 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BC158D61971932400AA84F1 /* ViewController.swift in Sources */,
+				8BC158F11971937600AA84F1 /* RegexCode.swift in Sources */,
 				8BC158D41971932400AA84F1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
