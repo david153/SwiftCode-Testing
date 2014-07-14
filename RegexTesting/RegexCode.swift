@@ -21,7 +21,7 @@ func =~ (input: String, pattern: String) -> Bool? {
   return nil
 }
 
-//From the Internet -- testing!
+//From the Internet -- testing!!
 class Regex {
   let internalExpression: NSRegularExpression
   let pattern: String
